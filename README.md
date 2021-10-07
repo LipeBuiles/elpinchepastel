@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/elpinchepastel"><img src="https://api.daily.dev/devcards/e4d584d6794542a5b4618f41c895f5f8.png?r=pis" width="400" alt="Juan Felipe Builes's Dev Card"/></a>
